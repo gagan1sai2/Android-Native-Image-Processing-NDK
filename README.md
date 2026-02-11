@@ -56,10 +56,10 @@ Applies a 3×3 convolution blur using:
 
 ## Performance Results (Sample)
 
-| Filter | Execution Time |
-|--------|----------------|
-| Grayscale (MT) | ~15–25 ms |
-| Blur (MT Optimized) | ~110–130 ms |
+| Filter | Execution Time (1080p) |
+|--------|------------------------|
+| Grayscale (Multi-threaded) | ~15–25 ms |
+| Blur (Multi-threaded Optimized) | ~110–130 ms |
 
 *Results vary depending on device hardware.*
 
