@@ -13,7 +13,7 @@ The application benchmarks multi-threaded grayscale and blur filters on a 1920×
 ![Original](screenshots/original.png)
 
 ### Grey Scale
-![Original](screenshots/greyscale.png)
+![Original](screenshots/grayscale.png)
 
 ### Blurred Image
 ![Blur](screenshots/blur.png)
