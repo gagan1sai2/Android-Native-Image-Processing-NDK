@@ -9,16 +9,25 @@ The application benchmarks multi-threaded grayscale and blur filters on a 1920×
 ---
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/original.png" width="25%" />
-  <img src="screenshots/grayscale.png" width="25%" />
-  <img src="screenshots/blur.png" width="25%" />
-</p>
-<p align="center">
-  <b>Original</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Grayscale</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Blur</b>
-</p>
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/original.png" width="250"/><br/>
+      <b>Original</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/grayscale.png" width="250"/><br/>
+      <b>Grayscale</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/blur.png" width="250"/><br/>
+      <b>Blur</b>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Features
