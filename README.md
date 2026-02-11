@@ -7,16 +7,14 @@ This project demonstrates native image processing on Android using the Android N
 The application benchmarks multi-threaded grayscale and blur filters on a 1920×1080 image to analyze performance characteristics and CPU scaling behavior.
 
 ---
-
 ## Screenshots
-### Original Image
-![Original](screenshots/original.png)
 
-### Grey Scale
-![Original](screenshots/grayscale.png)
+<p align="center">
+  <img src="screenshots/original.png" width="30%" />
+  <img src="screenshots/grayscale.png" width="30%" />
+  <img src="screenshots/blur.png" width="30%" />
+</p>
 
-### Blurred Image
-![Blur](screenshots/blur.png)
 
 ## Features
 
