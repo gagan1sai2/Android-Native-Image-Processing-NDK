@@ -28,7 +28,8 @@ Converts RGB pixels to grayscale using parallel processing.
 Applies a 3×3 convolution blur using:
 - Work partitioning across threads
 - Memory-optimized implementation (no full image copy)
-
+  
+> Note: Each filter execution resets the image to the original to ensure consistent benchmarking conditions.
 ---
 
 ## Performance Results (Sample)
