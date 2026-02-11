@@ -8,6 +8,16 @@ The application benchmarks multi-threaded grayscale and blur filters on a 1920×
 
 ---
 
+## Screenshots
+### Original Image
+![Original](screenshots/original.png)
+
+### Grey Scale
+![Original](screenshots/greyscale.png)
+
+### Blurred Image
+![Blur](screenshots/blur.png)
+
 ## Features
 
 - Native bitmap manipulation using Android NDK
